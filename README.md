@@ -1,8 +1,7 @@
 # AnTuTu-HTML5-Test
 
 ## License
-AnTuTu-HTML5-Test: [LGPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html)
-Because it contains LGPL-2.0-or-later files; See below.
+AnTuTu-HTML5-Test: [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0)
 
 ### Components
 - `AnTuTu_HTML5_Test/octane.js`, `AnTuTu_HTML5_Test/js/base.js`, `AnTuTu_HTML5_Test/js/code-load.js`, `AnTuTu_HTML5_Test/js/earley-boyer.js`, `AnTuTu_HTML5_Test/js/navier-stokes.js`, `AnTuTu_HTML5_Test/js/regexp.js`, `AnTuTu_HTML5_Test/js/richards.js`, `AnTuTu_HTML5_Test/js/run.js`, `AnTuTu_HTML5_Test/js/splay.js`: [Octane and V8](https://github.com/chromium/octane) | BSD-3-Clause("New" or "Revised"), Apache-2.0, MIT(X11)
